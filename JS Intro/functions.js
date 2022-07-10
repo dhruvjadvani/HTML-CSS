@@ -1,39 +1,17 @@
-// object -> group of key value pair
-// key : value -> property
-// key : function -> method
+// non primitive -> array, objects, function
 
-let person = {
-    name: "Dhruv",
-    lastName: "Jadvani",
-    address: {
-        city: "Ahmedabad",
-        state: "Gujarat"
-    } ,
-    age: 23,
-    isEngineer: true,
-    companies: ["Keepsake", "TCS"],
-    sayHi: function () {
-        console.log("Hi!");
-    } 
-};
+//function defination
+function sayHi(param) {
+    console.log("Hi!");
+    console.log("param recieved", param);
+    return "returned from a function"; // no need to define return type
+}
 
-// get
-console.log(person.name);
-console.log(person.lastName);
-console.log(person.address);
-console.log(person.age);
-console.log(person.isEngineer);
-console.log(person.companies);
-person.sayHi();
-console.log(person.companies[0]);
+// function call
+sayHi(10);
+sayHi("Hello");
+sayHi([1, 2, 3, 4, 5]);
 
-// set // update
-
-console.log("person :", person);
-person.age = 22;
-person.friends = ["Pratik", "Hiren", "Aadarsh"];
-console.log("-------------------------------");
-console.log("person :", person);
-
-
+let rVal = sayHi([1, 10, 11, 22]);
+console.log("rval", rVal);
 
