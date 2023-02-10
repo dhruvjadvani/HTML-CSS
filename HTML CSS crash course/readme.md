@@ -158,5 +158,126 @@
 ![2](https://user-images.githubusercontent.com/25152105/216991401-bac37a9b-2ee0-44fa-ad9f-f48895d2bb34.jpg)
 
 
+# 15. internal css
 
+![1](https://user-images.githubusercontent.com/25152105/217216739-5b31c05e-e8f5-40f0-ac62-f96aa7a934c1.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217216746-2a712c86-a8b3-49f2-9b8d-291f7082a2ca.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217216755-c53f1ed3-a0e9-4bcb-b5e4-9f7deb9679c9.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217216758-6e087a8b-6a3a-481c-85c0-b7bfdc793592.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217216760-58795b90-46fd-4d25-93a8-8613d20f17f1.jpg)
+![6](https://user-images.githubusercontent.com/25152105/217216763-844359d7-9eda-490a-902c-fe68d937d891.jpg)
+![7](https://user-images.githubusercontent.com/25152105/217216768-31c3766e-044e-46d9-921f-3bddfd48770c.jpg)
+![8](https://user-images.githubusercontent.com/25152105/217216773-3d69a90e-386d-48fb-acb6-64f7742f3c36.jpg)
+![9](https://user-images.githubusercontent.com/25152105/217216777-bb8f5c33-0da5-4dd3-8616-159eac805f5c.jpg)
 
+# 16. external css
+
+![1](https://user-images.githubusercontent.com/25152105/217217016-4e61d04e-50b6-4db0-b786-243501e8472a.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217217028-de171974-92b8-44a1-b118-44b27b6468c5.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217217033-67c74709-f62b-4dad-a4de-50754b7d73b2.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217217041-006f249f-1a21-457d-b752-49d1827d7524.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217217047-1e60add9-bfac-41bf-957f-4a3f7899829b.jpg)
+![6](https://user-images.githubusercontent.com/25152105/217217052-68fbcc76-f880-4f9b-ac52-2933c2bd52db.jpg)
+![7](https://user-images.githubusercontent.com/25152105/217217055-3d7e2b0a-b5f6-4401-9bf7-d66922244d42.jpg)
+![8](https://user-images.githubusercontent.com/25152105/217217059-c30178f0-67a0-4fbc-a6d2-d6b4ab4809e5.jpg)
+![9](https://user-images.githubusercontent.com/25152105/217217065-90235dc2-3f85-47a9-bec4-5a2a7a51c555.jpg)
+
+# 17. classes and ids
+
+![1](https://user-images.githubusercontent.com/25152105/217217249-a6b81abf-1b16-4b61-a646-857751c4aead.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217217259-80f57d9b-a303-482c-bda0-b04108724062.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217217265-4bcbdfc1-d43c-4832-8ab3-d93300d85b28.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217217266-b64bc1d2-7f52-40d0-8702-b01b10aa215b.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217217269-6a6006d5-5fdb-4208-9dd1-250926e46a08.jpg)
+![6](https://user-images.githubusercontent.com/25152105/217217272-33f3a33e-6c1b-4812-a09d-febe1d6cdb4e.jpg)
+![7](https://user-images.githubusercontent.com/25152105/217217276-21bd7a73-2ad5-498b-9b08-060f826a7cfb.jpg)
+![8](https://user-images.githubusercontent.com/25152105/217217278-6eb698c7-5971-405b-a05d-4d5e4c601c37.jpg)
+![9](https://user-images.githubusercontent.com/25152105/217217286-637ec1ec-5cab-40c6-a1ce-282c8e09bde4.jpg)
+![10](https://user-images.githubusercontent.com/25152105/217217290-03a62003-49c1-4f4d-b461-0a8bd890cb84.jpg)
+![11](https://user-images.githubusercontent.com/25152105/217217293-450b3816-cfc1-4e19-9475-886f2b657341.jpg)
+![12](https://user-images.githubusercontent.com/25152105/217217296-382936f6-dbfe-466e-9c18-04d56eb88c30.jpg)
+![13](https://user-images.githubusercontent.com/25152105/217217298-74f2bf09-afd7-48db-b8f1-5344481724cd.jpg)
+![14](https://user-images.githubusercontent.com/25152105/217217302-737e32d4-fcd0-4f30-88c0-7ca2f7a574c0.jpg)
+![15](https://user-images.githubusercontent.com/25152105/217217304-406f6b04-1423-46d5-9efd-6d9eabc821a9.jpg)
+![16](https://user-images.githubusercontent.com/25152105/217217307-976a56be-5209-4df0-a47d-a8e403f73017.jpg)
+![17](https://user-images.githubusercontent.com/25152105/217217314-1f1d8b3f-12d6-4b63-b89e-94abc04c4bc3.jpg)
+![18](https://user-images.githubusercontent.com/25152105/217217317-30c79c98-383a-4c5b-bd72-5bf69a6eaaa2.jpg)
+
+# 18. most used tags in html
+
+![1](https://user-images.githubusercontent.com/25152105/217218034-d65459b3-077a-4c2e-8879-bf2ec9c24ef0.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217218041-8c27ebd0-ccc0-4972-a323-947174d1e696.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217218045-12651063-d0ad-45e2-af02-02f0ee92bb16.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217218046-c74871f0-ce94-46ac-b15a-5e91228042f5.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217218051-4923560f-ac65-4fa6-9075-f244c7d4a75c.jpg)
+
+# 19. comments in html and css
+
+![1](https://user-images.githubusercontent.com/25152105/217217823-dd88073c-7bdd-41a4-8712-40776d4703b3.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217217835-c2647734-49bd-4002-b7af-bdf1875c3ea1.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217217840-a69bfcc4-00d8-45f8-bfbe-690f7be9b565.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217217845-c1c04389-e2aa-41c8-a30a-64b5dca59f47.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217217850-bfbeb0ef-9fc3-4337-b2b3-40a1e8ff3df5.jpg)
+
+# 20. intro to box model
+
+![1](https://user-images.githubusercontent.com/25152105/217218204-224a9543-c412-4c07-b3e5-f14473d8fbf2.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217218210-447b6cd3-59d4-4808-8f5d-0360775b8802.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217218218-4fde683c-ee7c-4d57-866c-d2a3adcbfa1b.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217218223-820e998a-fe8f-484f-95da-5eb604dcacbc.jpg)
+
+# 21. margin and padding
+
+![1](https://user-images.githubusercontent.com/25152105/217218393-90364838-3ff1-4b71-82b6-9db37b358229.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217218397-99653c42-42f7-496e-baa2-7f93b77e45a2.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217218403-511eee50-0420-4097-8d69-183b916a0512.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217218407-6bc2ec20-9f67-4684-af3c-784005989e08.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217218410-08b3a7f6-f969-4784-b1d8-0f1df930d3e1.jpg)
+![6](https://user-images.githubusercontent.com/25152105/217218416-56e0cd10-d1aa-4e7e-a2af-8b72544f9328.jpg)
+![7](https://user-images.githubusercontent.com/25152105/217218424-29f4e36b-400f-4d55-94e5-af422259d24c.jpg)
+![8](https://user-images.githubusercontent.com/25152105/217218427-4b8dd75d-e10e-4195-8128-1fc182bf5d64.jpg)
+![9](https://user-images.githubusercontent.com/25152105/217218434-49fad8ca-f76c-49c6-a1af-59bc7dfedf8c.jpg)
+![10](https://user-images.githubusercontent.com/25152105/217218440-7310e2e1-5a49-4617-ad71-92ff2e1ac810.jpg)
+![11](https://user-images.githubusercontent.com/25152105/217218448-59e3015d-8516-408c-9e2b-b600b15e42ea.jpg)
+
+# 22. borders
+
+![1](https://user-images.githubusercontent.com/25152105/217218657-e34694f1-6882-4e6e-854b-e75ec1b08b37.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217218671-b39a7bfb-b1c8-476d-8a1a-abb359f7a229.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217218677-ee2f0ed2-a12c-4f15-9f87-c23adb61de1c.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217218679-efdea29b-5f22-4b51-bd34-fb146cc7e99b.jpg)
+
+# 23. box model wrap up
+
+![1](https://user-images.githubusercontent.com/25152105/217218847-fd606553-361b-480e-8307-95cf0c30f82e.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217218854-74bc3954-9dab-461c-84f2-9683b4ca850f.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217218857-a8a37ef7-5599-45b6-927e-48e4a1691ece.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217218862-89a11399-9ada-4d2a-9da0-5de4a75ad9f1.jpg)
+
+# 24. basic layout
+
+![1](https://user-images.githubusercontent.com/25152105/217219096-a9098908-039b-47d4-9ea9-2d5f4671e687.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217219106-5eff1f1d-b4f6-4cf2-9bc6-f017eb139a57.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217219110-1599dc08-e128-410d-b157-694e21fc49c6.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217219116-d9ed5854-5669-4759-8d6d-a5af11494c87.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217219118-63590066-5a6f-485f-ab54-2f9300af69f4.jpg)
+
+# 25. centering elements
+
+![2](https://user-images.githubusercontent.com/25152105/217219461-509325e7-8355-40c6-9d6b-8ef99e9cadf3.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217219468-f190687f-6660-4c5e-a1e6-5e35f86be021.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217219474-c058afe1-0587-4156-8101-20eec6e7c6f4.jpg)
+![5](https://user-images.githubusercontent.com/25152105/217219479-453f71c2-3fea-4e73-920b-75bcd8ae8920.jpg)
+
+# 26. creating columns with flexbox
+
+![1](https://user-images.githubusercontent.com/25152105/217219715-ff0c925e-ba28-4463-99b4-0567f5e954d8.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217219731-ec59056e-ad34-4ee7-8b37-107663aa7aef.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217219736-0b4fb65e-2bf9-4045-a2b4-f736367fef23.jpg)
+![4](https://user-images.githubusercontent.com/25152105/217219741-4aa23b76-7196-4d02-9d2d-89ce3fb91ea2.jpg)
+
+# 27. creating layout from scratch
+
+![1](https://user-images.githubusercontent.com/25152105/217219960-80acd9c5-632e-4f9c-b528-405de6f92b06.jpg)
+![2](https://user-images.githubusercontent.com/25152105/217219970-aea8e694-b1c7-4f6e-abc0-158d19da183f.jpg)
+![3](https://user-images.githubusercontent.com/25152105/217219976-e6d7f4ca-3f8f-4ad9-a0cb-dc71b981ac4a.jpg)
